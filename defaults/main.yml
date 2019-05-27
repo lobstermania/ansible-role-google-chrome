@@ -1,0 +1,5 @@
+---
+# defaults file for ansible-role-google-chrome
+
+google_chrome_deb: https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+google_chrome_rpm: https://dl.google.com/linux/direct/google-chrome-stable_current_x86_64.rpm
